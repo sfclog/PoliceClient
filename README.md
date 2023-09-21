@@ -1,5 +1,7 @@
 ## PoliceClient-By-SFC_Log | 2020
 
+Mã Nguồn: Đã bị mất
+
 * Kéo file ở trên vào .minecraft/versions
 + Vô minecraft chọn PoliceClient-By-SFC_Log
 + Player
